@@ -1,0 +1,19 @@
+.navbar .navbar-brand {
+    border: none;
+    background: none;
+    box-shadow: 0px 0px 0px 0px white;
+    width: 15%;
+    color: rgb(75, 229, 206);
+    font-size: 1.4em;
+    outline: none;
+  }
+.navbar .navbar-collapse .navbar-nav .nav-item {
+    border: none;
+    background: none;
+    box-shadow: 0px 0px 0px 0px white;
+    /*width: 2%;*/
+    color: white;
+    font-size: 1.8em;
+    padding: 1px 8px;
+    outline: none;
+  }
